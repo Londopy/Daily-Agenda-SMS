@@ -19,3 +19,6 @@ python3 tkinter_sms.py
 ```
 python3 Main.py
 ```
+
+### Keep In Mind, that you have to host this code 24/7, so that it will send every morning!
+#### I recommend hosting on a raspberry pi!
