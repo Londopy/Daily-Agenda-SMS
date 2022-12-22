@@ -9,7 +9,7 @@ Everyone wants to wake up with their daily agenda set out infornt of them. This 
 
 1. Install requirments.txt
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 2. Change the agenda
 ```
