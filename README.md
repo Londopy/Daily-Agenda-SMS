@@ -1,5 +1,5 @@
 # Daily-Agenda-SMS
-![Alt text](C:/Users/Londo/Downloads/github_agenda_pfp.png?raw=true)
+<img src="/repository/assets/employee.png" alt="Employee data" title="Employee Data title">
 
 
 Everyone wants to wake up with their daily agenda set out infornt of them. This python script sends you your daily agenda everyday at 05:59 AM, but everyones agenda changes, so there is a GUI that allows you to change your agenda easily and quickly.
