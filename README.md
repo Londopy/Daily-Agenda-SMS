@@ -4,8 +4,11 @@
 
 Everyone wants to wake up with their daily agenda set out infornt of them. This python script sends you your daily agenda everyday at 05:59 AM, but everyones agenda changes, so there is a GUI that allows you to change your agenda easily and quickly.
 
+---
 
-## Installation
+## Getting Started
+
+### Installation
 
 1. Install requirments.txt
 ```
@@ -19,6 +22,12 @@ python3 tkinter_sms.py
 ```
 python3 Main.py
 ```
+
+### Contact
+
+#### :mailbox: How to reach me: <img src="https://user-images.githubusercontent.com/109172537/209095400-8f9c465d-914b-4303-919e-4f449469b223.png" width="20"> ChezLondo#3468
+
+---
 
 ### Keep In Mind, that you have to host this code 24/7, so that it will send every morning!
 #### I recommend hosting on a raspberry pi!
