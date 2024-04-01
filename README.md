@@ -1,3 +1,5 @@
+<!-- 
+
 <div id="badges" align="center">
   <a href="[your-linkedin-URL](https://www.twitch.tv/ChezLondo_)">
     <img src="https://img.shields.io/twitch/status/ChezLondo_?style=social" alt="Twitch Badge"/>
@@ -12,6 +14,8 @@
     <img src="https://img.shields.io/reddit/user-karma/link/ChezLondo?style=social" alt="Reddit Badge"/>
   </a>
 </div>
+
+ -->
 
 # Daily-Agenda-SMS
 ![New Project](https://user-images.githubusercontent.com/109172537/209053509-356405fb-7a4d-4105-a98b-89304b541c50.png)
