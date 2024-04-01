@@ -44,9 +44,10 @@ python3 Main.py
 
 ### Contact
 
-#### :mailbox: How to reach me: <img src="https://user-images.githubusercontent.com/109172537/209095400-8f9c465d-914b-4303-919e-4f449469b223.png" width="20"> ChezLondo#3468
+#### :mailbox: How to reach me: <img src="https://user-images.githubusercontent.com/109172537/209095400-8f9c465d-914b-4303-919e-4f449469b223.png" width="20"> _Londo. 
+                                                                                                                                                          <!--@ChezLondo#346-->
 
 ---
 
-### Keep In Mind, that you have to host this code 24/7, so that it will send every morning!
+### Keep In Mind, that you need to host this code 24/7. So that it will keep running and send every morning!
 #### I recommend hosting on a raspberry pi!
