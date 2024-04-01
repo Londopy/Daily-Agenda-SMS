@@ -51,3 +51,13 @@ python3 Main.py
 
 ### Keep In Mind, that you need to host this code 24/7. So that it will keep running and send every morning!
 #### I recommend hosting on a raspberry pi!
+
+---
+
+![Relese](https://img.shields.io/github/v/release/Londopy/Daily-Agenda-SMS) 
+![Size](https://img.shields.io/github/languages/code-size/Londopy/Daily-Agenda-SMS) 
+![Files](https://img.shields.io/github/directory-file-count/Londopy/Daily-Agenda-SMS) 
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Londopy/Daily-Agenda-SMS/blob/main/LICENSE) 
+![Deps](https://img.shields.io/hackage-deps/v/cond) 
+![Issues](https://img.shields.io/github/issues/Londopy/Daily-Agenda-SMS) 
+
