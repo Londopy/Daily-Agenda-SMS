@@ -45,7 +45,7 @@ python3 Main.py
 ### Contact
 
 #### :mailbox: How to reach me: <img src="https://user-images.githubusercontent.com/109172537/209095400-8f9c465d-914b-4303-919e-4f449469b223.png" width="20"> _Londo. 
-                                                                                                                                                          <!--@ChezLondo#346-->
+<!--                                                                                                                                                         @ChezLondo#346-->
 
 ---
 
